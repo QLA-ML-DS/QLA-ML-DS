@@ -9,3 +9,6 @@ QLA-ML-DS/QLA-ML-DS is a ✨ special ✨ repository because its `README.md` (thi
 - 🌱 I’m currently learning ...
 You can click the Preview link to take a look at your changes.
 --->
+
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=QLA-ML-DS&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
